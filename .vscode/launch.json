@@ -1,0 +1,104 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "basic_widget",
+            "cwd": "basic_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "basic_widget (profile mode)",
+            "cwd": "basic_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "basic_widget (release mode)",
+            "cwd": "basic_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "input_widget",
+            "cwd": "input_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "input_widget (profile mode)",
+            "cwd": "input_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "input_widget (release mode)",
+            "cwd": "input_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "layout_widget",
+            "cwd": "layout_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "layout_widget (profile mode)",
+            "cwd": "layout_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "layout_widget (release mode)",
+            "cwd": "layout_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "sample_project",
+            "cwd": "sample_project",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sample_project (profile mode)",
+            "cwd": "sample_project",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sample_project (release mode)",
+            "cwd": "sample_project",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "recursive_function",
+            "cwd": "dart\\02_함수\\recursive_function",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LoginApplication<login>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.aloha.login.LoginApplication",
+            "projectName": "login",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
